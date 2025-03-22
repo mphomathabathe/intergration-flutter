@@ -12,6 +12,15 @@ The purpose of this template is to Integrate a Vertex AI Agent with a Flutter ap
 
 GCP Usage:  Flutter is used as the client app framework, Vertex AI Search is used as a vector DB, and Reasoning Engine is used to build and deploy an agent with LangChain on Vertex AI. The agent uses Gemini, (LLMs) to generate AI responses to text and image prompts.
 
+## Vertex AI Agent Engine overview (formerly known as LangChain on Vertex AI or Vertex AI Reasoning Engine) 
+
+<img width="850" alt="Screenshot 2025-03-21 at 21 23 56" src="https://github.com/user-attachments/assets/c6a343c0-b9f6-43d2-bb5b-a3d1dc383bdf" />
+
+**Create and deploy on Agent Engine**
+
+<img width="848" alt="Screenshot 2025-03-21 at 21 28 41" src="https://github.com/user-attachments/assets/87de4385-1826-4746-9c50-d01ee0ee41c8" />
+
+
 Here is a high-level overview of the `app` folder contents:
 
 | Folder/File                         | Description                                                                                                         |
